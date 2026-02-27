@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Hannah Wakeling"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Professional OpenLCA Trainer."
+  avatar           : /assets/images/HWakeling_circular.png
+  bio              : "Professional OpenLCA Trainer"
   location         : "UK and Canada"
   email            :
   links:
